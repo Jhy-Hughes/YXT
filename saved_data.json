@@ -1,0 +1,73 @@
+[
+    {
+        "companyName": "JCYY",
+        "username": "1234",
+        "password": "qwe",
+        "selectedTasks": [
+            {
+                "index": 1,
+                "jobName": "123",
+                "jobValue": 2000
+            },
+            {
+                "index": 2,
+                "jobName": "123",
+                "jobValue": 2000
+            }
+        ],
+        "selectedJobs": [
+            "123",
+            "123"
+        ],
+        "totalAmount": 4000,
+        "timestamp": "2024-11-18T22:51:41.057582"
+    },
+    {
+        "companyName": "JCYY",
+        "username": "1234456",
+        "password": "qwe",
+        "selectedTasks": [
+            {
+                "index": 1,
+                "jobName": "123",
+                "jobValue": 2000
+            },
+            {
+                "index": 2,
+                "jobName": "123",
+                "jobValue": 2000
+            }
+        ],
+        "selectedJobs": [
+            "123",
+            "123"
+        ],
+        "totalAmount": 4000,
+        "timestamp": "2024-11-18T22:52:24.113419"
+    },
+    {
+        "companyName": "JCYY",
+        "username": "123456",
+        "password": "123345",
+        "selectedTasks": [
+            {
+                "index": 1,
+                "jobName": "123",
+                "jobValue": 2000
+            },
+            {
+                "index": 2,
+                "jobName": "123",
+                "jobValue": 2000
+            }
+        ],
+        "selectedJobs": [
+            {
+                "jobName": "123",
+                "jobValue": 2000
+            }
+        ],
+        "totalAmount": 2000,
+        "timestamp": "2024-11-18T23:02:57.012648"
+    }
+]
